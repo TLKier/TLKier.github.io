@@ -101,7 +101,7 @@ export default defineConfig({
 			]
 		: [],
 
-	site: "http://www.kierblog.xyz",
+	site: "http://tlkier.github.io",
 	//base: "/",
 	trailingSlash: "always",
 	compressHTML: true,
