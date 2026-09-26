@@ -3,4 +3,4 @@ Disallow: /
 Allow: /$
 Allow: /posts/
 
-Sitemap: http://www.kierblog.xyz/sitemap-index.xml
+Sitemap: http://tlkier.github.io/sitemap-index.xml
