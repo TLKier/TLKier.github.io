@@ -19,7 +19,7 @@ export const timelineData: TimelineItem[] = [
 		],
 		icon: "material-symbols:school",
 		color: "#2563EB",
-		featured: true,
+		featured: false,
 	},
 	{
 		id: "first-programming-experience",
@@ -28,6 +28,7 @@ export const timelineData: TimelineItem[] = [
 			"高一第二学期（2024年3月）第一次接触编程，开始学习 Python 基础语法，并逐渐喜欢上写代码。",
 		type: "education",
 		startDate: "2024-03-01",
+		endDate: "2026-03-02",
 		location: "县城一中",
 		skills: ["Python", "编程基础", "逻辑思维"],
 		achievements: [
@@ -37,7 +38,7 @@ export const timelineData: TimelineItem[] = [
 		],
 		icon: "material-symbols:code",
 		color: "#7C3AED",
-		featured: true,
+		featured: false,
 	},
 	{
 		id: "first-django-blog",
@@ -55,7 +56,7 @@ export const timelineData: TimelineItem[] = [
 		],
 		icon: "material-symbols:code",
 		color: "#7C3AED",
-		featured: true,
+		featured: false,
 	},
 	{
 		id: "fuzhou-university",
