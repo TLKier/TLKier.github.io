@@ -35,56 +35,53 @@ export interface AITool {
 	color?: string;
 }
 
-// Replace the examples below with your own AI tools
 export const aiToolsData: AITool[] = [
 	{
-		id: "example-chat",
-		name: "Example Chat AI",
+		id: "deepseek",
+		name: "DeepSeek",
 		description: {
-			en: "A conversational AI assistant for writing and reasoning.",
-			zh_CN: "用于写作与推理的对话式 AI 助手。",
+			zh_CN: "深度求索推出的 AI 助手，擅长推理、编程与中文对话。",
+		},
+		icon: "material-symbols:neurology",
+		category: "chat",
+		frequency: "daily",
+		url: "https://chat.deepseek.com",
+		usage: {
+			zh_CN: "每天：代码编写、复杂推理、资料整理",
+		},
+		tags: ["对话", "推理", "编程"],
+		color: "#4D6BFE",
+	},
+	{
+		id: "doubao",
+		name: "豆包",
+		description: {
+			zh_CN: "字节跳动推出的 AI 助手，支持对话、写作与多场景创作。",
+		},
+		icon: "material-symbols:chat-bubble",
+		category: "chat",
+		frequency: "daily",
+		url: "https://www.doubao.com",
+		usage: {
+			zh_CN: "每天：日常问答、写作辅助、灵感生成",
+		},
+		tags: ["对话", "写作", "创作"],
+		color: "#3B82F6",
+	},
+	{
+		id: "chatgpt",
+		name: "ChatGPT",
+		description: {
+			zh_CN: "与神对话是需要代价的",
 		},
 		icon: "material-symbols:smart-toy",
 		category: "chat",
 		frequency: "daily",
-		url: "https://example.com",
+		url: "https://chatgpt.com",
 		usage: {
-			en: "Daily: writing, brainstorming",
-			zh_CN: "每天：写作、思路梳理",
+			zh_CN: "按需：复杂问题探讨、写作与推理",
 		},
-		tags: ["Chat"],
-		color: "#C97758",
-	},
-	{
-		id: "example-coding",
-		name: "Example Coding AI",
-		description: {
-			en: "An AI-powered code completion and review tool.",
-			zh_CN: "AI 驱动的代码补全与 review 工具。",
-		},
-		icon: "material-symbols:code",
-		category: "coding",
-		frequency: "weekly",
-		url: "https://example.com",
-		usage: {
-			en: "Weekly: code review, refactoring",
-			zh_CN: "每周：代码 review、重构",
-		},
-		tags: ["Coding"],
+		tags: ["对话", "推理", "写作"],
 		color: "#10A37F",
-	},
-	{
-		id: "example-image",
-		name: "Example Image AI",
-		description: {
-			en: "An AI image generation tool for creating illustrations.",
-			zh_CN: "用于生成插图的 AI 图像工具。",
-		},
-		icon: "material-symbols:image",
-		category: "image",
-		frequency: "occasional",
-		url: "https://example.com",
-		tags: ["Image"],
-		color: "#1A73E8",
 	},
 ];
