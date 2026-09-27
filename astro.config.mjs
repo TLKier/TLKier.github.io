@@ -101,7 +101,7 @@ export default defineConfig({
 			]
 		: [],
 
-	site: "https://tlkier.github.io",
+	site: "https://tlkier-github-io.pages.dev",
 	//base: "/",
 	trailingSlash: "always",
 	compressHTML: true,
