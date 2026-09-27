@@ -26,6 +26,30 @@ export const LOCAL_PLAYLIST: Song[] = [
 		url: "assets/music/url/Last regrets.mp3",
 		duration: 253,
 	},
+	{
+		id: 3,
+		title: "空気力学少女と少年の詩",
+		artist: "はな",
+		cover: hitoriCover,
+		url: "assets/music/url/空気力学少女と少年の詩.mp3",
+		duration: 253,
+	},
+	{
+		id: 4,
+		title: "Horizon Dreamer",
+		artist: "三浦大知",
+		cover: hitoriCover,
+		url: "assets/music/url/Horizon Dreamer.mp3",
+		duration: 253,
+	},
+		{
+		id: 5,
+		title: "Polytope",
+		artist: "三浦大知",
+		cover: hitoriCover,
+		url: "assets/music/url/Polytope.mp3",
+		duration: 253,
+	},
 ];
 
 export const DEFAULT_SONG: Song = {
