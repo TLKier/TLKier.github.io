@@ -81,7 +81,7 @@ export const aiToolsData: AITool[] = [
 		usage: {
 			zh_CN: "按需：复杂问题探讨、写作与推理",
 		},
-		tags: ["对话", "推理", "写作"],
+		tags: ["对话", "推理", "编程"],
 		color: "#10A37F",
 	},
 ];
