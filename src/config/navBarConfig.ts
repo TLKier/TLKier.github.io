@@ -225,7 +225,6 @@ export const navBarConfig: NavBarConfig = {
 					url: "/skills/",
 					icon: "material-symbols:psychology",
 				},
-				LinkPreset.AITools,
 				{
 					name: "Timeline",
 					url: "/timeline/",
