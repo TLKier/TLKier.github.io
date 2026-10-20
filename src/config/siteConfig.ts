@@ -164,7 +164,7 @@ export const siteConfig: SiteConfig = {
 			switchable: true,
 
 			subtitle: [
-				"4BetterLife",
+				"安心经营着自己的快乐生活",
 				"前天是小鹿,昨天是兔子,今天是你。",
 				"不要输给以后的困难,加油啊！",
 				"即使天海相隔,羁绊依旧牢固,这便是所谓的家人。",

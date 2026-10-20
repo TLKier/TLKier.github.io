@@ -11,17 +11,6 @@ export interface DiaryItem {
 	tags?: string[];
 }
 
-// 示例日记数据
-const diaryData: DiaryItem[] = [
-	{
-		id: 1,
-		content:
-			"The falling speed of cherry blossoms is five centimeters per second!",
-		date: "2025-01-15T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
-	},
-];
-
 // 获取日记列表（按时间倒序）
 export const getDiaryList = (limit?: number) => {
 	const sortedData = [...diaryData].sort(
@@ -47,3 +36,14 @@ export const getAllTags = () => {
 	}
 	return Array.from(tags).sort();
 };
+
+
+// 示例日记数据
+const diaryData: DiaryItem[] = [
+	{
+		id: 1,
+		content:
+			"今天开始写日记吧，其实也不会每天都写，今天在我们班发现一个好好看的女孩子。然后今天也是重新开始学stm32和c语言了,好久没学都忘光了。",
+		date: "2026-10-20T10:30:00Z",
+	},
+];
