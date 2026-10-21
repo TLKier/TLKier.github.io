@@ -23,7 +23,7 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 		interval: 5,
 	},
 	zIndex: -1,
-	opacity: 0.8,
+	opacity: 0,
 	blur: 1,
 	switchable: true,
 	overlay: {
