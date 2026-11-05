@@ -4,7 +4,7 @@ import type { ProfileConfig } from "../types/config";
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "时极基尔",
-	bio: "人类低质量男性",
+	bio: "一个普通的电气自动化本科学生",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
