@@ -8,6 +8,5 @@ draft: false
 pinned: false
 lang: zh-CN
 ---
-蓝奏网盘
+蓝奏网盘 密码:bf4g
 https://wwaur.lanzouu.com/icsTw4etdf7i
-密码:bf4g
