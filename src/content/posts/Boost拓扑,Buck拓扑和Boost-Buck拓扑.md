@@ -11,5 +11,5 @@ lang: zh-CN
 
 核心是电感 电感的电流不能突变。
 
-![BOOST拓扑与BUCK拓扑](/image/Boost拓扑,Buck拓扑和Boost-Buck拓扑/1.jpg)
-![BOOST-BUCK拓扑](/image/Boost拓扑,Buck拓扑和Boost-Buck拓扑/2.jpg)
+![BOOST拓扑与BUCK拓扑](/images/Boost拓扑,Buck拓扑和Boost-Buck拓扑/1.jpg)
+![BOOST-BUCK拓扑](/images/Boost拓扑,Buck拓扑和Boost-Buck拓扑/2.jpg)
