@@ -1,12 +1,12 @@
 {
 	"mode": "external",
-	"title": "加密相册示例",
-	"description": "这是一个加密相册示例，需要密码才能查看照片（里面没有啥好看的，真的）",
-	"date": "2025-05-22",
+	"title": "加密相册",
+	"description": "需要密码，只有和站主有深刻羁绊的人能获取密码",
+	"date": "2026-11-7",
 	"location": "秘密花园",
-	"tags": ["加密", "示例", "私密"],
-	"password": "123456",
-	"passwordHint": "六位数字",
+	"tags": ["加密",  "私密"],
+	"password": "114514",
+	"passwordHint": "请联系管理员获取密码",
 	"cover": "https://picsum.photos/800/600?random=10",
 	"photos": [
 		{
