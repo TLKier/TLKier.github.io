@@ -11,36 +11,36 @@
 	"photos": [
 		{
 			"id": "encrypted-1",
-			"src": "/images/albums/加密相册/IMG_20260927_130329.jpg",
-			"alt": "自习室",
-			"title": "自习室",
+			"src": "https://picsum.photos/800/600?random=11",
+			"alt": "私密照片 1",
+			"title": "私密风景",
 			"tags": ["私密"],
 			"width": 800,
 			"height": 600
 		},
 		{
 			"id": "encrypted-2",
-			"src": "/images/albums/加密相册/IMG_20261106_113957.jpg",
-			"alt": "高数",
-			"title": "高数课",
+			"src": "https://picsum.photos/600/800?random=12",
+			"alt": "私密照片 2",
+			"title": "私密记忆",
 			"tags": ["私密"],
 			"width": 600,
 			"height": 800
 		},
 		{
 			"id": "encrypted-3",
-			"src": "/images/albums/加密相册/IMG_20261107_201332.jpg",
-			"alt": "站主丑照",
-			"title": "站主丑照",
+			"src": "https://picsum.photos/800/600?random=13",
+			"alt": "私密照片 3",
+			"title": "秘密花园",
 			"tags": ["私密"],
-			"width": 600,
-			"height": 800
+			"width": 800,
+			"height": 600
 		},
 		{
 			"id": "encrypted-4",
-			"src": "/images/albums/加密相册/IMG_20260726_213952[1].jpg",
-			"alt": "家教备课",
-			"title": "家教备课",
+			"src": "https://picsum.photos/700/700?random=14",
+			"alt": "私密照片 4",
+			"title": "温馨时刻",
 			"tags": ["私密"],
 			"width": 700,
 			"height": 700
